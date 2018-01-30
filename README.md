@@ -1,4 +1,4 @@
-*** NOTE: I am no longer maintaining this project. *** 
+*** Forked from https://github.com/KeejOow/eidlib for use in the INFO-H-400 (Medical information systems) course at the Université Libre de Bruxelles.*** 
 
 # Native Java e-ID library
 
